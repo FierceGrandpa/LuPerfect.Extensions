@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LuPerfect.Extensions</id>
+    <version>1.0.0</version>
+    <authors>LuPerfect</authors>
+    <description>Library with c# extensions.</description>
+    <tags>c#, extensions, asp.net core</tags>
+    <repository url="https://github.com/FierceGrandpa/LuPerfect.Extensions" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\bin\Release\net6.0\LuPerfect.Extensions.dll" target="lib\net6.0\LuPerfect.Extensions.dll" />
+  </files>
+</package>

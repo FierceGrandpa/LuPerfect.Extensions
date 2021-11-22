@@ -1,0 +1,11 @@
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\bin\Release\net6.0\LuPerfect.Extensions.deps.json
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\bin\Release\net6.0\LuPerfect.Extensions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\bin\Release\net6.0\ref\LuPerfect.Extensions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\bin\Release\net6.0\LuPerfect.Extensions.pdb
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\LuPerfect.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\LuPerfect.Extensions.AssemblyInfoInputs.cache
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\LuPerfect.Extensions.AssemblyInfo.cs
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\LuPerfect.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\LuPerfect.Extensions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\ref\LuPerfect.Extensions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Extensions\LuPerfect.Extensions\obj\Release\net6.0\LuPerfect.Extensions.pdb
